@@ -155,6 +155,20 @@
     padding: 0px 50px;
 }
 
+.contact{
+    background-color: #f6f5f4;
+    height: 34vh;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.forn{
+    max-width: 344px;
+    margin: auto;
+}
+
 
     
 
